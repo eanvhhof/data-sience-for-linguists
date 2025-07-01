@@ -1,0 +1,78 @@
+isocode	name	family	inventorySize	phonVowLength	phonGeminates
+fin	Finnish	Uralic	51	True	True
+krl	North Karelian	Uralic	36	True	True
+olo	Olonets Karelian	Uralic	41	True	True
+vep	Veps	Uralic	36	False	True
+ekk	Estonian	Uralic	48	True	True
+liv	Livonian	Uralic	65	True	True
+sma	Southern Sami	Uralic	62	True	True
+smj	Lule Sami	Uralic	46	False	True
+sme	Northern Sami	Uralic	50	False	True
+smn	Inari Sami	Uralic	58	True	True
+sms	Skolt Sami	Uralic	85	True	True
+sjd	Kildin Sami	Uralic	64	True	True
+mrj	Hill Mari	Uralic	38	False	False
+mhr	Meadow Mari	Uralic	40	False	False
+mdf	Moksha	Uralic	50	False	False
+myv	Erzya	Uralic	41	False	False
+udm	Udmurt	Uralic	37	False	False
+koi	Komi-Permyak	Uralic	40	False	False
+kpv	Komi-Zyrian	Uralic	36	False	False
+hun	Hungarian	Uralic	43	True	True
+kca	Northern Khanty	Uralic	35	False	False
+mns	Northern Mansi	Uralic	39	True	True
+sel	Northern Selkup	Uralic	41	False	True
+yrk	Tundra Nenets	Uralic	42	True	True
+enf	Forest Enets	Uralic	38	False	False
+nio	Nganasan	Uralic	58	False	True
+ben	Bengali	Indo-European	47	False	True
+hin	Hindi	Indo-European	62	True	True
+pbu	Northern Pashto	Indo-European	70	False	False
+pes	Western Farsi	Indo-European	29	False	True
+kmr	Northern Kurdish	Indo-European	31	False	False
+oss	Ossetian	Indo-European	50	False	False
+hye	Armenian	Indo-European	42	False	False
+ell	Modern Greek	Indo-European	31	False	False
+sqi	Standard Albanian	Indo-European	37	False	False
+bul	Bulgarian	Indo-European	38	False	False
+hrv	Croatian	Indo-European	61	True	True
+slv	Slovene	Indo-European	32	False	True
+slk	Slovak	Indo-European	41	True	True
+ces	Czech	Indo-European	37	True	True
+pol	Polish	Indo-European	47	False	False
+ukr	Ukrainian	Indo-European	38	False	False
+bel	Belarusian	Indo-European	36	False	False
+rus	Russian	Indo-European	49	False	False
+lit	Lithuanian	Indo-European	86	True	True
+lav	Latvian	Indo-European	52	True	True
+isl	Icelandic	Indo-European	49	False	True
+nor	Norwegian (Bokmål)	Indo-European	65	True	True
+swe	Swedish	Indo-European	59	True	True
+dan	Danish	Indo-European	85	True	True
+deu	German	Indo-European	44	True	True
+nld	Dutch	Indo-European	55	True	True
+eng	English	Indo-European	58	True	True
+gle	Irish	Indo-European	44	True	True
+cym	Welsh	Indo-European	44	False	False
+bre	Breton	Indo-European	57	True	True
+lat	Latin	Indo-European	44	True	True
+fra	French	Indo-European	67	True	True
+cat	Catalan	Indo-European	42	False	False
+spa	Spanish	Indo-European	35	False	False
+por	Portuguese	Indo-European	70	False	False
+ita	Italian	Indo-European	42	False	True
+ron	Romanian	Indo-European	41	False	False
+tur	Turkish	Turkic	31	False	True
+azj	North Azerbaijani	Turkic	32	False	False
+uzn	Northern Uzbek	Turkic	34	False	False
+kaz	Kazakh	Turkic	35	False	False
+bak	Bashkir	Turkic	33	False	False
+tat	Tatar	Turkic	37	False	False
+sah	Sakha	Turkic	47	True	True
+chv	Chuvash	Turkic	56	False	False
+ava	Avar	Nakh-Daghestanian	49	False	True
+ddo	Tsez	Nakh-Daghestanian	43	False	False
+lbe	Lak	Nakh-Daghestanian	50	False	True
+lez	Lezgian	Nakh-Daghestanian	40	False	False
+dar	Dargwa	Nakh-Daghestanian	43	False	False
+che	Chechen	Nakh-Daghestanian	51	False	True
