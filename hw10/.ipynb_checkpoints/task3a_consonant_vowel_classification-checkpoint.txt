@@ -1,0 +1,14 @@
+Character Classification for Task 3a (Digraph Analysis)
+=======================================================
+
+VOWELS (including Welsh-specific vowels):
+['-', 'a', 'e', 'i', 'o', 'u', 'w', 'y']
+
+CONSONANTS:
+["'", 'b', 'c', 'd', 'f', 'g', 'h', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't']
+
+Notes:
+- This classification is based on environmental clustering
+- Characters that cluster with known vowels (a,e,i,o,u) are treated as vowels
+- This explains how Welsh words like 'yw', 'ydyw' can be pronounced
+- Task 3a will use CONSONANTS to identify potential digraphs

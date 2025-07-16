@@ -1,0 +1,27 @@
+Task 2a: Character Environment Analysis Summary
+==================================================
+
+Dataset Statistics:
+- Total tokens: 5,923,561
+- Total characters analyzed: 59
+- Characters with ≥200 environments: 23
+- Total unique environments: 1109
+
+Characters included in clustering analysis:
+["'", '-', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'w', 'y']
+
+Top characters by environment count:
+ 7. 'a': 722 environments
+ 5. 'o': 683 environments
+ 2. 'e': 671 environments
+ 6. 'i': 636 environments
+18. 'u': 499 environments
+13. 's': 493 environments
+25. '-': 488 environments
+16. 'l': 478 environments
+ 3. 'r': 474 environments
+15. 'y': 447 environments
+
+Recommended classification (5-cluster solution):
+- Vowels: ['-', 'a', 'e', 'i', 'o', 'u', 'w', 'y']
+- Consonants: ["'", 'b', 'c', 'd', 'f', 'g', 'h', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't']

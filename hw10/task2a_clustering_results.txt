@@ -1,0 +1,117 @@
+Task 2a: Character Clustering Results
+==================================================
+
+CLUSTERING WITH 3 CLUSTERS:
+------------------------------
+Cluster 0: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't']
+Cluster 1: ["'", '-', 'u', 'w', 'y']
+Cluster 2: ['a', 'e', 'i', 'o']
+
+Vowel/Consonant Analysis:
+  CONSONANT cluster 0: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'l', 'm', 'n', 'p', 'r', 's', 't']
+  VOWEL cluster 1 (contains ['u']): ["'", '-', 'u', 'w', 'y']
+    -> Potential Welsh vowels: ["'", '-', 'w', 'y']
+  VOWEL cluster 2 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+
+==================================================
+
+CLUSTERING WITH 4 CLUSTERS:
+------------------------------
+Cluster 0: ["'", '-', 'u', 'w', 'y']
+Cluster 1: ['l', 'm', 'n', 'r', 's', 't']
+Cluster 2: ['a', 'e', 'i', 'o']
+Cluster 3: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+
+Vowel/Consonant Analysis:
+  VOWEL cluster 0 (contains ['u']): ["'", '-', 'u', 'w', 'y']
+    -> Potential Welsh vowels: ["'", '-', 'w', 'y']
+  CONSONANT cluster 1: ['l', 'm', 'n', 'r', 's', 't']
+  VOWEL cluster 2 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+  CONSONANT cluster 3: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+
+==================================================
+
+CLUSTERING WITH 5 CLUSTERS:
+------------------------------
+Cluster 0: ['l', 'm', 'n', 'r', 's', 't']
+Cluster 1: ['-', 'u', 'w', 'y']
+Cluster 2: ['a', 'e', 'i', 'o']
+Cluster 3: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+Cluster 4: ["'"]
+
+Vowel/Consonant Analysis:
+  CONSONANT cluster 0: ['l', 'm', 'n', 'r', 's', 't']
+  VOWEL cluster 1 (contains ['u']): ['-', 'u', 'w', 'y']
+    -> Potential Welsh vowels: ['-', 'w', 'y']
+  VOWEL cluster 2 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+  CONSONANT cluster 3: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+  CONSONANT cluster 4: ["'"]
+
+==================================================
+
+CLUSTERING WITH 6 CLUSTERS:
+------------------------------
+Cluster 0: ['-', 'u', 'w', 'y']
+Cluster 1: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+Cluster 2: ['l', 'm', 'n', 'r']
+Cluster 3: ['s', 't']
+Cluster 4: ["'"]
+Cluster 5: ['a', 'e', 'i', 'o']
+
+Vowel/Consonant Analysis:
+  VOWEL cluster 0 (contains ['u']): ['-', 'u', 'w', 'y']
+    -> Potential Welsh vowels: ['-', 'w', 'y']
+  CONSONANT cluster 1: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+  CONSONANT cluster 2: ['l', 'm', 'n', 'r']
+  CONSONANT cluster 3: ['s', 't']
+  CONSONANT cluster 4: ["'"]
+  VOWEL cluster 5 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+
+==================================================
+
+CLUSTERING WITH 7 CLUSTERS:
+------------------------------
+Cluster 0: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+Cluster 1: ['-', 'w']
+Cluster 2: ['u', 'y']
+Cluster 3: ['s', 't']
+Cluster 4: ["'"]
+Cluster 5: ['a', 'e', 'i', 'o']
+Cluster 6: ['l', 'm', 'n', 'r']
+
+Vowel/Consonant Analysis:
+  CONSONANT cluster 0: ['b', 'c', 'd', 'f', 'g', 'h', 'k', 'p']
+  CONSONANT cluster 1: ['-', 'w']
+  VOWEL cluster 2 (contains ['u']): ['u', 'y']
+    -> Potential Welsh vowels: ['y']
+  CONSONANT cluster 3: ['s', 't']
+  CONSONANT cluster 4: ["'"]
+  VOWEL cluster 5 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+  CONSONANT cluster 6: ['l', 'm', 'n', 'r']
+
+==================================================
+
+CLUSTERING WITH 8 CLUSTERS:
+------------------------------
+Cluster 0: ['c', 'h', 'k', 'p']
+Cluster 1: ['-', 'w']
+Cluster 2: ['u', 'y']
+Cluster 3: ['s', 't']
+Cluster 4: ["'"]
+Cluster 5: ['a', 'e', 'i', 'o']
+Cluster 6: ['l', 'm', 'n', 'r']
+Cluster 7: ['b', 'd', 'f', 'g']
+
+Vowel/Consonant Analysis:
+  CONSONANT cluster 0: ['c', 'h', 'k', 'p']
+  CONSONANT cluster 1: ['-', 'w']
+  VOWEL cluster 2 (contains ['u']): ['u', 'y']
+    -> Potential Welsh vowels: ['y']
+  CONSONANT cluster 3: ['s', 't']
+  CONSONANT cluster 4: ["'"]
+  VOWEL cluster 5 (contains ['a', 'e', 'i', 'o']): ['a', 'e', 'i', 'o']
+  CONSONANT cluster 6: ['l', 'm', 'n', 'r']
+  CONSONANT cluster 7: ['b', 'd', 'f', 'g']
+
+==================================================
+
